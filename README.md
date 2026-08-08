@@ -16,7 +16,7 @@ Here are some of the tools I’ve used:
 
 ##
 <div data-importer="stats" align="center">
- <img src="https://raw.githubusercontent.com/JonathanGd208/JonathanGd208/activity-graph-output/activity-graph.svg?theme=tokyo-night&area=true"/>
+<img src="https://raw.githubusercontent.com/JonathanGd208/JonathanGd208/activity-graph-output/activity-graph.svg?theme=tokyo-night&area=true"/>
 </div>
 
 ##
